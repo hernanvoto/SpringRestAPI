@@ -1,4 +1,4 @@
-package com.airconsole.reservation;
+package com.demo;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
